@@ -18,8 +18,10 @@ A python API wrapper that pulls user's repos and plots the stars acquired for ea
 - Open terminal and navigate to the repository you cloned the project to.
 - If you would like to cutomize the wrapper to plot your repos, edit the 'github_wrapper.py' file and replace the url.
 - Edit the following line and replace 'hamza15' with your username:
+
         url = 'https://api.github.com/users/hamza15/repos?q=language:python&sort=stars'
-- Run with the following command:
+	
+- To execute, open terminal and navigate to the directory you cloned this repo to and run with the following command :
 	
         python github_wrapper.py
 
