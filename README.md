@@ -28,4 +28,6 @@ A python API wrapper that pulls user's repos and plots the stars acquired for ea
 - Running the script will create a file github_wrapper.svg in your current directory.
 - Open the python_repos.svg with chrome or any other browser available.
 
+
+
 ![screen shot 2018-08-29 at 11 33 40 pm](https://user-images.githubusercontent.com/5506327/44828036-0899f200-abe4-11e8-8cf4-600e13c51d6d.png)
